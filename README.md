@@ -1,5 +1,5 @@
 # Profit-Leakage-Detector-Global-Sales-Analytics
-This project uncovers silent margin erosion across global product, region, and customer segments — helping organizations detect Profit Leakage that’s often hidden beneath top-line growth.
+This project uncovers silent margin erosion across global product, region, and customer segments helping organizations detect Profit Leakage that’s often hidden beneath top-line growth.
 
 In many enterprises, revenue may look healthy, but profits quietly suffer due to pricing gaps, unbalanced customer tiers, or low-margin product-region combinations. This solution integrates SQL, Python, and Power BI to identify those risks and support leadership with action-focused financial intelligence.
 
@@ -44,7 +44,7 @@ Revenue vs margin league rankings
 Executive BI dashboards to guide performance reviews
 
 
-🛠 Tools & Technologies
+ Tools & Technologies
 Tools
 SQL:	Joins, nested queries, risk flag logic, aggregations
 Python:	Data prep, logic replication, exploratory analytics
