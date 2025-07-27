@@ -1,0 +1,31 @@
+product,region,revenue,cost,profit_margin
+Product A,North America,915821.54,826289.1,9.78
+Product A,Europe,671263.56,576331.16,14.14
+Product A,Asia-Pacific,349159.55,296168.12,15.18
+Product A,South America,135313.86,112599.36,16.79
+Product A,Middle East,346122.69,271921.51,21.44
+Product A,Africa,687182.3,502785.4,26.83
+Product B,North America,578495.13,514836.64,11.0
+Product B,Europe,251405.14,217491.74,13.49
+Product B,Asia-Pacific,625326.6,532339.48,14.87
+Product B,South America,108592.27,82062.04,24.43
+Product B,Middle East,591748.02,476569.74,19.46
+Product B,Africa,328339.49,299718.66,8.72
+Product C,North America,714474.11,547372.05,23.39
+Product C,Europe,255149.78,214202.99,16.05
+Product C,Asia-Pacific,674283.22,512779.13,23.95
+Product C,South America,643836.34,583696.43,9.34
+Product C,Middle East,478872.55,344273.04,28.11
+Product C,Africa,837068.3,657056.73,21.51
+Product D,North America,501139.0,374515.91,25.27
+Product D,Europe,651389.09,576525.58,11.49
+Product D,Asia-Pacific,849932.1,801278.12,5.72
+Product D,South America,470537.32,418270.37,11.11
+Product D,Middle East,587506.33,514774.55,12.38
+Product D,Africa,772105.74,637916.42,17.38
+Product E,North America,477492.51,415854.91,12.91
+Product E,Europe,594394.3,479963.09,19.25
+Product E,Asia-Pacific,147790.4,133003.6,10.01
+Product E,South America,647278.85,478820.71,26.03
+Product E,Middle East,576532.79,433825.23,24.75
+Product E,Africa,690322.87,647097.77,6.26

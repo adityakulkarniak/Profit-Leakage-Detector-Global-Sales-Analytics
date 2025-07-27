@@ -1,0 +1,1001 @@
+customer_id,customer_name,region,industry,revenue_contribution
+C0001,Durham Group,Africa,Transportation,2.33
+C0002,"Adams, Walton and Palmer",Europe,Technology,2.2
+C0003,Cunningham Inc,Asia-Pacific,Retail,22.85
+C0004,Lee-Banks,North America,Finance,23.47
+C0005,"Hicks, Santiago and Harper",Europe,Transportation,9.27
+C0006,Willis-Salas,Middle East,Transportation,19.59
+C0007,Lopez-Dodson,Africa,Transportation,3.72
+C0008,Hernandez Inc,North America,Technology,7.42
+C0009,"Ball, Burnett and Baker",Europe,Healthcare,22.07
+C0010,Harris LLC,Asia-Pacific,Finance,24.19
+C0011,Taylor-Silva,Middle East,Healthcare,10.96
+C0012,"Gallegos, Jones and Wilson",Africa,Technology,23.89
+C0013,Aguilar-Moody,Middle East,Retail,13.87
+C0014,"Wilkerson, Lewis and Kerr",Europe,Retail,21.06
+C0015,"Clark, Roach and Romero",Middle East,Transportation,14.32
+C0016,Heath-Humphrey,Europe,Finance,21.9
+C0017,Porter and Sons,Asia-Pacific,Transportation,12.89
+C0018,Scott-Thomas,North America,Retail,7.42
+C0019,Johnson-Freeman,Middle East,Retail,15.06
+C0020,Hughes-Mccarthy,Middle East,Technology,15.58
+C0021,"Mason, Robles and Thompson",North America,Retail,19.83
+C0022,Walker and Sons,Asia-Pacific,Retail,13.43
+C0023,"Pitts, Gallagher and Warren",Middle East,Healthcare,9.61
+C0024,Fletcher-Morton,Africa,Technology,10.84
+C0025,Miller Group,Europe,Healthcare,7.73
+C0026,Simmons-Johnson,South America,Healthcare,22.18
+C0027,Nelson-Martin,Middle East,Technology,1.45
+C0028,"Hill, Fields and Rubio",Middle East,Finance,11.51
+C0029,"Kelley, Williams and Zavala",Europe,Healthcare,15.24
+C0030,Burns-Cabrera,South America,Retail,12.59
+C0031,Doyle Inc,Asia-Pacific,Finance,16.41
+C0032,Johnson and Sons,Europe,Finance,15.07
+C0033,"Rojas, Martinez and Collins",North America,Technology,21.59
+C0034,Alexander-Kennedy,South America,Healthcare,6.86
+C0035,"Washington, Fernandez and Perkins",Africa,Transportation,4.11
+C0036,"Sanchez, Graves and Diaz",Africa,Retail,6.66
+C0037,Lucas Group,Asia-Pacific,Retail,0.93
+C0038,"Coleman, Roberts and Young",Europe,Finance,1.3
+C0039,Leonard-Johnson,South America,Transportation,4.05
+C0040,Wright Inc,South America,Technology,9.84
+C0041,"Lee, Burns and Ramirez",Africa,Finance,2.62
+C0042,Stevens-Zimmerman,South America,Transportation,9.33
+C0043,Brown-Sanders,Africa,Finance,18.95
+C0044,"Gibson, Owen and Dominguez",North America,Retail,9.08
+C0045,"Vaughn, Nichols and Humphrey",Asia-Pacific,Technology,20.0
+C0046,Cochran-Roth,South America,Finance,14.5
+C0047,"Walker, Gardner and Dyer",North America,Technology,14.14
+C0048,Trujillo-Kaiser,North America,Manufacturing,7.58
+C0049,"Donovan, Rowe and Hodges",Middle East,Finance,22.04
+C0050,Mitchell Inc,North America,Transportation,20.28
+C0051,Johnston-Clark,South America,Healthcare,9.0
+C0052,"Nguyen, Weber and Diaz",South America,Healthcare,20.63
+C0053,Carlson Inc,Middle East,Transportation,10.55
+C0054,Miller-Baker,Europe,Retail,7.06
+C0055,Hogan Group,Europe,Technology,8.46
+C0056,"Cook, Ware and Cortez",South America,Finance,3.84
+C0057,Brandt-Chavez,Africa,Manufacturing,15.03
+C0058,"Mclaughlin, Collins and Jordan",Europe,Manufacturing,22.64
+C0059,"Weaver, Fuentes and Ray",Asia-Pacific,Manufacturing,12.31
+C0060,Pearson-Collins,South America,Finance,1.13
+C0061,Shaw Group,Asia-Pacific,Manufacturing,7.29
+C0062,Yu Group,Middle East,Retail,16.99
+C0063,"House, Lee and Green",Middle East,Retail,4.17
+C0064,"Cole, Mendoza and Anderson",North America,Transportation,17.38
+C0065,"Mcdaniel, Cameron and Contreras",South America,Healthcare,3.85
+C0066,Wolfe Inc,Europe,Healthcare,1.21
+C0067,Mcdonald and Sons,South America,Retail,3.66
+C0068,"Porter, Grant and Walker",South America,Retail,5.86
+C0069,"Rowe, Williams and Hunt",Middle East,Finance,14.74
+C0070,Martin-Schwartz,Asia-Pacific,Retail,19.26
+C0071,"Lane, Duffy and Richard",South America,Technology,8.38
+C0072,"Manning, Whitehead and Wright",Africa,Healthcare,7.73
+C0073,Shah Ltd,Asia-Pacific,Technology,20.05
+C0074,"Parker, Allen and Ortega",Middle East,Retail,6.11
+C0075,"Lee, Rowland and Martinez",Europe,Manufacturing,2.83
+C0076,Torres-Gutierrez,Europe,Technology,23.66
+C0077,Forbes-Ruiz,South America,Healthcare,2.4
+C0078,Griffith-Kirby,Africa,Transportation,21.44
+C0079,Coleman-Mccarty,Middle East,Finance,4.72
+C0080,Garrett-Koch,Africa,Finance,15.17
+C0081,Peterson Ltd,Asia-Pacific,Technology,8.5
+C0082,Oneal Group,North America,Healthcare,12.98
+C0083,Walsh-Cain,Asia-Pacific,Manufacturing,19.87
+C0084,Martin-Mcconnell,Africa,Transportation,8.81
+C0085,"Oliver, Nash and Wood",North America,Technology,3.52
+C0086,"Gomez, Washington and Tate",Europe,Retail,21.55
+C0087,Lewis-Gonzales,South America,Manufacturing,22.3
+C0088,"Brown, Norton and Hart",Asia-Pacific,Healthcare,12.37
+C0089,Mckee-Phillips,Africa,Retail,17.61
+C0090,Phillips Inc,Asia-Pacific,Retail,10.29
+C0091,"Cohen, Young and Rogers",South America,Healthcare,3.78
+C0092,"Sanders, Hale and Young",Middle East,Retail,6.6
+C0093,"Gonzales, Gross and Davenport",Asia-Pacific,Transportation,13.39
+C0094,Dyer Inc,Europe,Finance,20.46
+C0095,Cooper LLC,South America,Retail,16.52
+C0096,Thomas PLC,Africa,Technology,6.88
+C0097,"Cruz, Rose and Mccarthy",North America,Technology,18.02
+C0098,Smith PLC,South America,Healthcare,10.87
+C0099,Deleon PLC,Asia-Pacific,Technology,3.71
+C0100,Kirby Inc,Europe,Healthcare,18.67
+C0101,Walker PLC,South America,Transportation,14.7
+C0102,"Clark, Stone and Murray",Africa,Manufacturing,8.96
+C0103,"Bauer, Flores and Wells",North America,Finance,7.52
+C0104,"Mendoza, Walker and Farley",Middle East,Healthcare,22.25
+C0105,"Mcpherson, Freeman and Blanchard",Africa,Retail,1.4
+C0106,"Bryant, Odom and Roberson",Asia-Pacific,Healthcare,12.04
+C0107,Ellis-Bryant,Europe,Manufacturing,13.18
+C0108,Watkins Group,Middle East,Retail,18.6
+C0109,Johnson-Henson,Africa,Retail,20.49
+C0110,Romero PLC,Asia-Pacific,Healthcare,16.61
+C0111,"Francis, Bishop and Hansen",North America,Retail,16.39
+C0112,Gomez Group,Middle East,Retail,4.95
+C0113,Ramirez-Nelson,Asia-Pacific,Retail,1.1
+C0114,Turner and Sons,Middle East,Manufacturing,24.36
+C0115,"Henson, Hicks and Fuentes",Middle East,Transportation,6.22
+C0116,"Anderson, Barrera and Buck",South America,Finance,19.35
+C0117,"Murphy, Larson and Stewart",Africa,Manufacturing,1.43
+C0118,Pearson Inc,Middle East,Technology,21.91
+C0119,"Savage, Richard and Nash",South America,Finance,6.1
+C0120,Terry-Davis,Europe,Retail,6.92
+C0121,Huff-Bonilla,Middle East,Technology,19.2
+C0122,Torres Ltd,Middle East,Transportation,9.35
+C0123,"Taylor, Barrett and Conner",South America,Finance,19.41
+C0124,Cameron LLC,Africa,Manufacturing,15.6
+C0125,"Butler, Cantu and Dominguez",Asia-Pacific,Manufacturing,18.07
+C0126,Woods LLC,Africa,Manufacturing,4.78
+C0127,"Parrish, Sims and Castillo",Asia-Pacific,Manufacturing,19.77
+C0128,Chan and Sons,Asia-Pacific,Technology,22.47
+C0129,Gordon and Sons,North America,Transportation,13.04
+C0130,Marshall Inc,Middle East,Manufacturing,17.56
+C0131,Weaver Ltd,Europe,Finance,2.59
+C0132,Diaz Inc,Africa,Retail,23.53
+C0133,Parker-Williams,Europe,Finance,19.69
+C0134,Mcclain and Sons,Africa,Manufacturing,9.06
+C0135,"Graham, Cox and Wheeler",North America,Healthcare,2.83
+C0136,Larson LLC,South America,Healthcare,14.97
+C0137,"Williams, Knight and Williams",North America,Technology,14.31
+C0138,Cobb Ltd,Europe,Technology,17.44
+C0139,"Holland, Wright and Ross",Middle East,Transportation,0.89
+C0140,"Patrick, Smith and Lester",South America,Healthcare,8.59
+C0141,Jones Group,Africa,Technology,7.43
+C0142,"Smith, Carey and Krause",Middle East,Technology,17.85
+C0143,Jensen-Kelly,Europe,Finance,20.82
+C0144,Taylor-Trujillo,Africa,Healthcare,23.54
+C0145,"Taylor, Conner and Anderson",South America,Finance,17.9
+C0146,"Hammond, Ortega and Dunn",Asia-Pacific,Technology,20.33
+C0147,Burke Inc,South America,Retail,3.65
+C0148,Mitchell-Roy,Middle East,Manufacturing,12.51
+C0149,"Lane, Mills and Short",North America,Healthcare,14.58
+C0150,Olson Group,Africa,Manufacturing,21.0
+C0151,"Hardy, Walker and Torres",Middle East,Healthcare,24.19
+C0152,Washington-Mcmahon,South America,Retail,3.44
+C0153,"Cohen, White and Knight",South America,Technology,21.92
+C0154,Crosby-Marshall,Asia-Pacific,Retail,9.1
+C0155,Singh-Johnson,North America,Manufacturing,9.28
+C0156,Carter-Chase,North America,Manufacturing,7.37
+C0157,Craig PLC,Asia-Pacific,Transportation,13.24
+C0158,Miller Inc,Europe,Technology,2.05
+C0159,Martinez-Moore,Asia-Pacific,Transportation,16.45
+C0160,Pollard LLC,Middle East,Healthcare,6.03
+C0161,Walls-Christian,Europe,Finance,22.0
+C0162,Coffey and Sons,Asia-Pacific,Transportation,10.11
+C0163,Smith-Brown,Middle East,Manufacturing,9.87
+C0164,Thornton-Scott,North America,Finance,1.19
+C0165,Andrade LLC,Middle East,Transportation,21.43
+C0166,Green and Sons,North America,Manufacturing,15.54
+C0167,"Haynes, Arellano and Weaver",Middle East,Healthcare,22.32
+C0168,"Baker, Carlson and Welch",Africa,Retail,10.89
+C0169,Williams-Smith,South America,Transportation,2.43
+C0170,Gonzalez-Mccullough,Middle East,Finance,0.92
+C0171,Robinson and Sons,North America,Healthcare,4.85
+C0172,Bowers-Edwards,Asia-Pacific,Healthcare,15.9
+C0173,Foster Group,North America,Technology,8.84
+C0174,Wallace Ltd,Europe,Transportation,8.57
+C0175,Murray-Vazquez,Middle East,Retail,18.77
+C0176,Shepherd-Adams,Europe,Technology,21.64
+C0177,Bryant and Sons,Europe,Finance,16.88
+C0178,"Lee, Clements and Russell",Asia-Pacific,Manufacturing,10.66
+C0179,Roberts-Elliott,Asia-Pacific,Healthcare,24.6
+C0180,Jackson-Watkins,Africa,Healthcare,19.81
+C0181,Powell and Sons,Europe,Healthcare,18.23
+C0182,"Patton, Jackson and Hood",Asia-Pacific,Finance,22.14
+C0183,Mata-Wells,Asia-Pacific,Manufacturing,11.79
+C0184,Bell-Diaz,Asia-Pacific,Healthcare,2.43
+C0185,Taylor-Scott,North America,Transportation,7.0
+C0186,"Livingston, Russell and Spencer",Africa,Retail,9.07
+C0187,Stokes LLC,South America,Manufacturing,16.61
+C0188,"Ayala, Bennett and Cooley",North America,Retail,8.48
+C0189,"Moore, Roach and Burke",North America,Healthcare,16.65
+C0190,"Booker, Rose and Wang",South America,Manufacturing,1.32
+C0191,"Holt, Le and Howard",Middle East,Manufacturing,21.67
+C0192,"Bartlett, Myers and Johnson",Middle East,Technology,14.55
+C0193,"Brown, Allen and Brock",Asia-Pacific,Finance,10.68
+C0194,Hodge-Ellison,Asia-Pacific,Transportation,14.18
+C0195,Olson-Smith,Europe,Technology,11.41
+C0196,Acevedo and Sons,Asia-Pacific,Manufacturing,13.65
+C0197,"Davies, Harmon and Roy",Middle East,Technology,21.16
+C0198,Hoffman-Williams,Middle East,Technology,10.72
+C0199,"Berger, Sandoval and French",South America,Transportation,13.13
+C0200,"Hayes, White and Thomas",North America,Healthcare,12.4
+C0201,Santana-Coleman,Middle East,Finance,3.03
+C0202,Arroyo Inc,Middle East,Healthcare,13.57
+C0203,Gilbert Group,North America,Transportation,13.47
+C0204,"Hines, Blankenship and Giles",Africa,Manufacturing,3.95
+C0205,Howard LLC,Africa,Healthcare,9.63
+C0206,"Lara, Macdonald and Wyatt",Africa,Finance,20.0
+C0207,Martin-Stewart,South America,Healthcare,22.65
+C0208,Nunez Ltd,Asia-Pacific,Technology,13.52
+C0209,Johnson-Collins,North America,Retail,4.97
+C0210,Parsons PLC,Asia-Pacific,Manufacturing,21.97
+C0211,Lopez-Ballard,Europe,Retail,11.13
+C0212,Howell-Cooper,South America,Technology,14.57
+C0213,Lewis LLC,Asia-Pacific,Manufacturing,20.11
+C0214,Whitehead Ltd,Europe,Healthcare,23.83
+C0215,Fox PLC,Europe,Finance,12.79
+C0216,Freeman-Thompson,Europe,Transportation,21.65
+C0217,White PLC,Middle East,Finance,17.97
+C0218,"Weaver, Arnold and Garrett",Europe,Retail,6.55
+C0219,Hale-Lee,Middle East,Healthcare,10.43
+C0220,Pratt PLC,Asia-Pacific,Transportation,4.04
+C0221,Thompson-Hill,Asia-Pacific,Finance,10.81
+C0222,Barnett-Bell,Middle East,Healthcare,18.29
+C0223,Parker Inc,Africa,Retail,22.66
+C0224,Mitchell-Obrien,Europe,Retail,19.57
+C0225,"Castaneda, Gonzalez and Callahan",Middle East,Technology,19.56
+C0226,"Shaw, Mclean and Flores",Africa,Transportation,16.96
+C0227,Garner-Mitchell,North America,Technology,15.66
+C0228,Hall Inc,Middle East,Healthcare,16.58
+C0229,Pennington LLC,South America,Manufacturing,1.54
+C0230,Nichols-Smith,South America,Healthcare,11.44
+C0231,Crane-Wells,South America,Technology,22.74
+C0232,Houston LLC,Asia-Pacific,Technology,14.85
+C0233,Wang-Ortega,North America,Finance,20.47
+C0234,Berg-Thomas,Africa,Finance,23.78
+C0235,Beck-Massey,Middle East,Manufacturing,14.76
+C0236,"Daniels, Smith and Frazier",Middle East,Technology,16.83
+C0237,Zhang Ltd,Europe,Transportation,20.35
+C0238,Ford PLC,Europe,Retail,8.26
+C0239,"Nicholson, Green and Williams",Asia-Pacific,Transportation,11.91
+C0240,"Scott, Stokes and Chang",Asia-Pacific,Manufacturing,23.49
+C0241,Christensen PLC,South America,Manufacturing,0.69
+C0242,"Lewis, Petersen and Bowers",Europe,Healthcare,12.44
+C0243,Rodriguez-Willis,South America,Finance,6.78
+C0244,Turner Group,Africa,Healthcare,11.06
+C0245,"Bishop, Bailey and Sanchez",Europe,Retail,12.23
+C0246,Parker Group,North America,Technology,2.87
+C0247,"Bernard, Sullivan and Walker",Africa,Finance,18.02
+C0248,"Lewis, Burnett and Cook",Europe,Technology,21.3
+C0249,Cole Ltd,Europe,Transportation,22.01
+C0250,Graham Inc,Europe,Healthcare,18.93
+C0251,"Estrada, Smith and Carter",Middle East,Finance,10.0
+C0252,Gibbs Inc,North America,Finance,18.43
+C0253,Adams-Mccoy,Middle East,Retail,8.57
+C0254,Juarez-Morton,Asia-Pacific,Manufacturing,12.72
+C0255,Merritt-Padilla,North America,Retail,23.15
+C0256,Bullock Inc,Middle East,Healthcare,4.22
+C0257,Salazar Inc,Europe,Transportation,14.16
+C0258,Mcdonald and Sons,Europe,Technology,6.86
+C0259,"Davis, Johnson and Adams",North America,Transportation,19.34
+C0260,"Martinez, Chavez and Fitzpatrick",South America,Finance,17.48
+C0261,Galloway-Davis,Africa,Manufacturing,21.0
+C0262,Hernandez-Liu,South America,Manufacturing,18.99
+C0263,Hubbard-Smith,Europe,Manufacturing,20.21
+C0264,Knight Ltd,Africa,Retail,2.03
+C0265,Farmer-Cain,Middle East,Healthcare,19.9
+C0266,Bright Inc,Europe,Transportation,2.38
+C0267,Moore-Henderson,South America,Transportation,0.79
+C0268,Reyes Inc,Africa,Finance,12.65
+C0269,Stanton and Sons,Africa,Healthcare,24.29
+C0270,Ellis-Griffith,Asia-Pacific,Transportation,8.98
+C0271,Morrison PLC,Asia-Pacific,Finance,2.87
+C0272,"Miller, Mcclure and Fox",Asia-Pacific,Healthcare,14.18
+C0273,Walker Inc,Middle East,Transportation,16.57
+C0274,"Miller, Maldonado and Reed",South America,Retail,12.46
+C0275,Bell-Taylor,South America,Transportation,24.52
+C0276,"Kirk, Cain and Ford",Africa,Manufacturing,3.85
+C0277,"Perry, Hughes and Lambert",South America,Finance,18.39
+C0278,"Brown, Lamb and Moore",Middle East,Technology,15.68
+C0279,Morgan Group,Africa,Transportation,7.88
+C0280,Powell Group,North America,Technology,20.85
+C0281,Hansen LLC,Africa,Finance,17.09
+C0282,House Inc,Middle East,Finance,8.67
+C0283,Cooper Ltd,Middle East,Healthcare,3.54
+C0284,Nichols-Santos,North America,Manufacturing,16.72
+C0285,Burns and Sons,Europe,Technology,2.39
+C0286,Martin Group,Asia-Pacific,Finance,24.48
+C0287,Osborne-Romero,Asia-Pacific,Technology,24.05
+C0288,Mitchell Inc,South America,Manufacturing,23.83
+C0289,Gibbs Inc,South America,Finance,13.6
+C0290,Johnson PLC,Europe,Retail,11.74
+C0291,"Wagner, Carlson and Jennings",Middle East,Technology,0.9
+C0292,Estrada-Roberts,Asia-Pacific,Transportation,20.38
+C0293,Short Inc,Africa,Manufacturing,3.44
+C0294,"Sanchez, White and Hurst",Europe,Retail,8.28
+C0295,"Dunn, Myers and Hawkins",North America,Technology,12.99
+C0296,"Harrison, Miller and Williams",North America,Technology,22.34
+C0297,Cruz-Smith,Asia-Pacific,Finance,23.87
+C0298,Ward-Smith,South America,Finance,21.34
+C0299,Thomas-Grant,North America,Technology,19.99
+C0300,Brown-Cook,Africa,Manufacturing,23.65
+C0301,Sparks-Spencer,Asia-Pacific,Transportation,3.3
+C0302,Brown Ltd,South America,Retail,23.36
+C0303,"Young, Young and Wright",North America,Manufacturing,3.76
+C0304,Wilkerson Inc,Middle East,Retail,15.67
+C0305,Wang Ltd,Middle East,Retail,1.34
+C0306,Rosales Group,Europe,Technology,11.57
+C0307,Lloyd LLC,Middle East,Transportation,16.62
+C0308,Tran-Evans,Asia-Pacific,Retail,11.38
+C0309,Hill-Foley,South America,Retail,18.32
+C0310,Thomas Ltd,North America,Manufacturing,16.09
+C0311,Nichols Group,Middle East,Finance,19.66
+C0312,"Burns, Cain and Cook",Asia-Pacific,Transportation,11.86
+C0313,White Group,Europe,Finance,22.75
+C0314,"Wiley, Jefferson and Holder",North America,Technology,10.74
+C0315,Young-Simmons,North America,Retail,3.3
+C0316,Lee PLC,Middle East,Finance,17.81
+C0317,"Williams, Walters and Wall",Asia-Pacific,Transportation,14.5
+C0318,Benitez-Brewer,Asia-Pacific,Manufacturing,6.68
+C0319,Rodriguez-Hamilton,North America,Manufacturing,21.32
+C0320,Martinez Ltd,Middle East,Retail,7.82
+C0321,Guerrero-Johnson,Africa,Manufacturing,16.72
+C0322,Evans-Greene,Asia-Pacific,Transportation,4.7
+C0323,"Massey, Preston and Hayes",Europe,Transportation,23.78
+C0324,"Campbell, Morgan and Carson",South America,Finance,19.07
+C0325,"Brown, Martin and Sanchez",Middle East,Retail,24.32
+C0326,Higgins Ltd,South America,Finance,9.26
+C0327,"Carlson, Boyle and Greene",South America,Finance,4.34
+C0328,Daniels Group,Africa,Transportation,21.26
+C0329,"Turner, Walsh and Richards",Middle East,Technology,4.91
+C0330,Jones Ltd,Africa,Healthcare,14.63
+C0331,"Bernard, Solomon and Johnson",Middle East,Healthcare,23.99
+C0332,Rodriguez-Carroll,Europe,Manufacturing,21.82
+C0333,"Beard, Ortiz and Hughes",Europe,Healthcare,16.78
+C0334,"Peterson, Webster and Lam",Europe,Transportation,20.61
+C0335,Stone-Russell,Asia-Pacific,Healthcare,1.58
+C0336,"Williams, Schwartz and Lee",South America,Healthcare,24.27
+C0337,Davis Ltd,North America,Technology,24.95
+C0338,Sullivan-Thomas,North America,Finance,17.99
+C0339,Martinez Group,Europe,Retail,16.37
+C0340,Fletcher-Oneal,Europe,Healthcare,15.4
+C0341,"Swanson, Ingram and Lynch",Africa,Technology,2.66
+C0342,Barr-Whitaker,North America,Transportation,11.13
+C0343,"Hoffman, Lopez and Osborn",Africa,Finance,5.79
+C0344,"Mahoney, Marks and Hawkins",Europe,Technology,16.39
+C0345,"Stone, Roberts and Lloyd",Europe,Transportation,14.92
+C0346,"West, Frazier and Williams",North America,Finance,22.95
+C0347,Erickson Inc,Europe,Technology,1.71
+C0348,Garcia-White,Asia-Pacific,Retail,6.11
+C0349,"Perez, Gutierrez and Olson",Europe,Finance,0.99
+C0350,Clark LLC,South America,Healthcare,21.21
+C0351,Moore Inc,Africa,Finance,10.29
+C0352,Waters-Beck,North America,Transportation,23.79
+C0353,Daniels-Munoz,Africa,Transportation,12.57
+C0354,Fox PLC,South America,Transportation,20.43
+C0355,Mcdaniel-Ball,Europe,Finance,0.59
+C0356,"Smith, Crawford and Rodriguez",South America,Healthcare,20.68
+C0357,"Crawford, Shelton and Garner",Africa,Technology,5.63
+C0358,Lawrence PLC,Middle East,Manufacturing,0.61
+C0359,Sharp-Ponce,North America,Healthcare,3.29
+C0360,Martinez-Rodriguez,South America,Healthcare,1.65
+C0361,"Gonzales, Henderson and Morgan",North America,Retail,11.52
+C0362,Andrews-Stout,North America,Retail,7.96
+C0363,Pruitt Ltd,South America,Finance,16.14
+C0364,Sims-Martin,North America,Finance,7.99
+C0365,Porter-Sanchez,Europe,Finance,6.7
+C0366,"Moody, Wong and Navarro",Asia-Pacific,Technology,17.81
+C0367,Evans and Sons,South America,Transportation,23.73
+C0368,"Beck, Nielsen and Castaneda",Asia-Pacific,Retail,4.34
+C0369,Lloyd-Winters,Africa,Retail,24.72
+C0370,Johnson-Edwards,South America,Finance,5.59
+C0371,Wolf PLC,Africa,Manufacturing,3.41
+C0372,Jones PLC,Asia-Pacific,Manufacturing,23.16
+C0373,"Garrett, Garrett and Nelson",Middle East,Transportation,24.92
+C0374,Camacho-Lewis,South America,Finance,16.24
+C0375,Davidson-Olson,Africa,Manufacturing,4.53
+C0376,Brown-Oliver,South America,Technology,18.29
+C0377,Harper LLC,Africa,Finance,11.01
+C0378,Arias-Martin,Asia-Pacific,Transportation,3.37
+C0379,Miller Inc,Europe,Technology,19.02
+C0380,Evans and Sons,Middle East,Technology,13.75
+C0381,Hartman-Stephens,North America,Transportation,9.77
+C0382,Jones and Sons,South America,Healthcare,12.14
+C0383,"Hernandez, Wright and Rodriguez",Africa,Retail,14.36
+C0384,"Rivas, Salinas and Sanchez",Africa,Finance,8.91
+C0385,"Mcgee, Patel and Torres",Europe,Retail,3.71
+C0386,Curtis-Watkins,North America,Finance,10.34
+C0387,Palmer Inc,Middle East,Manufacturing,21.37
+C0388,Hodges Group,Africa,Manufacturing,24.84
+C0389,"Obrien, Frost and Williams",Europe,Retail,19.6
+C0390,Davis LLC,South America,Technology,12.78
+C0391,Snyder-Arroyo,Middle East,Healthcare,2.73
+C0392,"Perry, Bruce and Navarro",Africa,Retail,18.0
+C0393,Tanner PLC,Europe,Technology,18.09
+C0394,Kaiser-Jones,North America,Finance,3.59
+C0395,"Reyes, Rivers and Mcdaniel",Asia-Pacific,Manufacturing,20.61
+C0396,Roberts-Ramirez,North America,Technology,14.42
+C0397,Moore LLC,Asia-Pacific,Healthcare,18.83
+C0398,Watson Ltd,South America,Finance,5.03
+C0399,"Rice, Cortez and Brown",North America,Manufacturing,3.32
+C0400,Jennings Inc,Asia-Pacific,Technology,8.33
+C0401,"Wright, Hill and Hernandez",Asia-Pacific,Finance,14.7
+C0402,Tyler Ltd,Middle East,Retail,22.45
+C0403,"Smith, Sanchez and Cantrell",Middle East,Manufacturing,15.98
+C0404,"Foster, Mckay and Brown",Europe,Healthcare,9.81
+C0405,Love LLC,North America,Transportation,1.62
+C0406,"Bentley, Clarke and Blackwell",Africa,Technology,8.82
+C0407,"Moore, Meyers and Hancock",Middle East,Retail,1.59
+C0408,Torres-Smith,Asia-Pacific,Finance,2.81
+C0409,Gillespie-Davis,Europe,Retail,4.03
+C0410,Hamilton Group,Europe,Retail,4.85
+C0411,Johnson-Reed,North America,Healthcare,15.9
+C0412,Alvarado Inc,Europe,Retail,6.74
+C0413,"Tucker, Stewart and Peters",Africa,Retail,17.38
+C0414,Ali and Sons,Europe,Transportation,4.45
+C0415,"Daniel, Beck and Garza",Africa,Technology,16.21
+C0416,Moses Inc,Asia-Pacific,Technology,12.95
+C0417,Cortez and Sons,North America,Retail,11.46
+C0418,Lucero LLC,Europe,Transportation,14.05
+C0419,Erickson and Sons,North America,Finance,19.38
+C0420,Rivera-Khan,Europe,Transportation,16.9
+C0421,"Robinson, Welch and Haney",Europe,Healthcare,3.44
+C0422,Young-Medina,Africa,Healthcare,24.41
+C0423,"Clarke, Brown and Lee",North America,Finance,15.41
+C0424,"Calhoun, Long and Hernandez",South America,Finance,5.27
+C0425,Luna LLC,Asia-Pacific,Manufacturing,14.39
+C0426,James-Salas,Europe,Healthcare,19.71
+C0427,"May, Pope and Fisher",North America,Finance,13.86
+C0428,Preston PLC,Middle East,Transportation,7.81
+C0429,"Figueroa, Vincent and Zuniga",South America,Finance,7.4
+C0430,James Group,South America,Manufacturing,10.25
+C0431,Mclean-Wood,South America,Retail,1.95
+C0432,Jones Ltd,North America,Healthcare,5.27
+C0433,Riley-Gomez,South America,Technology,17.18
+C0434,Bowman-Floyd,Africa,Technology,11.81
+C0435,Perez-Rivera,Middle East,Retail,24.59
+C0436,"Nicholson, Flores and Bailey",Middle East,Manufacturing,18.08
+C0437,Martinez Ltd,Africa,Healthcare,11.52
+C0438,Bush-Schmidt,Africa,Manufacturing,18.12
+C0439,Solomon PLC,South America,Technology,16.52
+C0440,Spencer-Wong,Middle East,Technology,20.51
+C0441,Norris and Sons,Europe,Transportation,17.9
+C0442,Sanders PLC,North America,Technology,12.97
+C0443,Martin-Deleon,Africa,Retail,5.52
+C0444,"Baker, Austin and Martinez",South America,Finance,21.19
+C0445,Costa Group,South America,Transportation,5.21
+C0446,Peters Group,Asia-Pacific,Transportation,0.6
+C0447,"Taylor, Bridges and Jones",North America,Healthcare,3.56
+C0448,"Adams, Schneider and Perez",South America,Healthcare,5.65
+C0449,Frey and Sons,Middle East,Finance,14.91
+C0450,"Smith, Brown and Gilbert",Europe,Retail,10.73
+C0451,Hopkins Group,Asia-Pacific,Retail,15.98
+C0452,"Miller, Fuller and Jimenez",Europe,Manufacturing,1.05
+C0453,Williamson-Crawford,North America,Retail,21.02
+C0454,Clarke-Morrison,South America,Manufacturing,15.71
+C0455,Jarvis Ltd,Europe,Retail,8.04
+C0456,Jensen LLC,North America,Transportation,13.89
+C0457,Dean and Sons,Asia-Pacific,Transportation,19.58
+C0458,Rodriguez-Johnson,North America,Finance,5.62
+C0459,Soto Group,Africa,Manufacturing,2.61
+C0460,Martinez and Sons,Africa,Finance,8.3
+C0461,Anderson Group,North America,Manufacturing,13.13
+C0462,Estrada and Sons,North America,Technology,3.02
+C0463,Hull Inc,Europe,Retail,15.5
+C0464,Watson Inc,Africa,Technology,21.26
+C0465,Frank Ltd,Africa,Retail,7.17
+C0466,Davis-Martinez,Africa,Finance,2.41
+C0467,"Perry, Lee and Atkinson",North America,Manufacturing,24.96
+C0468,"Simmons, Newman and Morales",Asia-Pacific,Transportation,21.12
+C0469,Fletcher PLC,Middle East,Retail,13.48
+C0470,Melton-Hanson,North America,Technology,1.01
+C0471,Juarez-Christensen,South America,Retail,7.94
+C0472,Medina Inc,Asia-Pacific,Transportation,12.88
+C0473,Miller and Sons,North America,Retail,16.52
+C0474,Combs-Thompson,North America,Manufacturing,17.64
+C0475,Roberts Ltd,Europe,Retail,4.38
+C0476,Payne-Mcdaniel,South America,Manufacturing,22.9
+C0477,"Jennings, Jacobs and Mccormick",Asia-Pacific,Technology,9.33
+C0478,"Cortez, Reid and Hester",North America,Transportation,11.12
+C0479,Dickerson-Booker,Europe,Retail,19.31
+C0480,"Barry, Stephenson and Allen",Asia-Pacific,Finance,23.33
+C0481,Kim-Chapman,Asia-Pacific,Retail,1.8
+C0482,Holmes Group,Middle East,Finance,22.12
+C0483,"Mitchell, Hammond and Ayala",South America,Healthcare,7.61
+C0484,Hernandez-Briggs,Africa,Manufacturing,12.85
+C0485,Franklin and Sons,Middle East,Retail,19.62
+C0486,Taylor Group,Middle East,Retail,12.33
+C0487,Fox Group,Africa,Technology,2.27
+C0488,Cline-Dunn,Asia-Pacific,Transportation,10.05
+C0489,"Anderson, Johnson and Smith",Europe,Healthcare,8.5
+C0490,Smith Group,Asia-Pacific,Transportation,12.81
+C0491,"Oliver, Williams and Dominguez",Asia-Pacific,Healthcare,7.99
+C0492,"Skinner, James and Thompson",Africa,Healthcare,18.9
+C0493,Jimenez-Lane,Europe,Finance,18.79
+C0494,Campbell LLC,Asia-Pacific,Manufacturing,5.24
+C0495,"Wolfe, Peterson and Smith",South America,Technology,11.39
+C0496,Alvarez-Kelly,North America,Manufacturing,8.08
+C0497,Johns-Townsend,Asia-Pacific,Retail,22.06
+C0498,Miller Inc,Middle East,Technology,0.92
+C0499,Hardin Inc,North America,Manufacturing,3.61
+C0500,Castro-Parker,Asia-Pacific,Finance,2.03
+C0501,"Hendricks, Yoder and Willis",Europe,Manufacturing,7.53
+C0502,"Ochoa, Wilson and Armstrong",Asia-Pacific,Transportation,12.66
+C0503,Stewart Group,Europe,Technology,1.87
+C0504,"Lin, Stanley and Henry",South America,Manufacturing,3.99
+C0505,"Hernandez, Robinson and Liu",South America,Technology,24.49
+C0506,"Rowland, Andrews and Ramirez",North America,Technology,11.33
+C0507,Waters Group,North America,Manufacturing,9.81
+C0508,"Miller, Jones and Davis",Africa,Healthcare,22.52
+C0509,"Gardner, Henry and Melton",South America,Finance,12.7
+C0510,Hoffman Group,Asia-Pacific,Manufacturing,14.65
+C0511,"Brown, Schmidt and Nelson",Africa,Manufacturing,16.59
+C0512,Allen-Baker,Africa,Finance,10.71
+C0513,Davis-Mitchell,Africa,Retail,6.12
+C0514,Brown Inc,Africa,Manufacturing,13.78
+C0515,Coleman-Marshall,Europe,Manufacturing,22.43
+C0516,Carroll-Alvarez,North America,Healthcare,18.24
+C0517,"Burch, Garcia and Olson",North America,Transportation,20.92
+C0518,Hester LLC,Africa,Transportation,5.07
+C0519,Moore-Flores,Asia-Pacific,Finance,7.99
+C0520,Schmidt Ltd,Middle East,Technology,22.78
+C0521,Payne-Marquez,Middle East,Retail,3.3
+C0522,Holmes PLC,South America,Healthcare,4.32
+C0523,"Reyes, Miller and Perez",Asia-Pacific,Transportation,2.11
+C0524,Salazar-Cordova,Asia-Pacific,Retail,5.42
+C0525,Patterson and Sons,Africa,Technology,17.54
+C0526,Burke PLC,South America,Transportation,24.48
+C0527,Peters-Trevino,Asia-Pacific,Retail,11.01
+C0528,"Hall, Wilson and Ware",Middle East,Finance,22.44
+C0529,"Patel, Collins and Choi",Middle East,Retail,17.09
+C0530,Greer-Williams,South America,Technology,15.62
+C0531,Morton-Berger,North America,Transportation,9.79
+C0532,"Johnson, Horton and Griffith",Middle East,Retail,15.33
+C0533,Macdonald-Kim,Middle East,Manufacturing,10.16
+C0534,"Garrison, Smith and Henry",Middle East,Technology,21.45
+C0535,Dorsey and Sons,Asia-Pacific,Technology,5.19
+C0536,Hogan Group,South America,Manufacturing,4.8
+C0537,Dickerson LLC,Middle East,Technology,11.03
+C0538,Smith PLC,Middle East,Manufacturing,12.53
+C0539,Davis Inc,North America,Technology,4.82
+C0540,Fuentes-Wilkerson,Middle East,Manufacturing,22.11
+C0541,Williams-Knapp,Asia-Pacific,Transportation,21.73
+C0542,Harris and Sons,Middle East,Transportation,13.29
+C0543,"Romero, Berg and Underwood",Middle East,Technology,17.77
+C0544,Griffin-Thomas,South America,Healthcare,12.83
+C0545,Bishop Ltd,Africa,Healthcare,7.32
+C0546,Anthony-Watson,Europe,Manufacturing,24.11
+C0547,"Lang, Ryan and Jones",Asia-Pacific,Technology,11.63
+C0548,"Cabrera, Hall and Owens",Africa,Transportation,18.76
+C0549,"Stephens, Sanders and Smith",North America,Retail,21.89
+C0550,Bailey Ltd,North America,Healthcare,12.32
+C0551,"Mclean, Abbott and Church",Europe,Transportation,15.26
+C0552,Hampton Inc,Asia-Pacific,Transportation,10.9
+C0553,"Blake, Hicks and Dominguez",Africa,Healthcare,20.56
+C0554,Yang Group,Africa,Technology,17.85
+C0555,Munoz PLC,South America,Finance,19.8
+C0556,"Hoffman, Ayala and Saunders",Europe,Retail,7.55
+C0557,Aguilar-Brown,North America,Transportation,12.85
+C0558,Bush-Kim,North America,Technology,12.43
+C0559,"Cole, Burns and Navarro",North America,Transportation,20.6
+C0560,Day-Brown,Europe,Transportation,8.48
+C0561,"Alvarez, Clarke and Lee",Europe,Finance,22.92
+C0562,Fox PLC,Africa,Finance,4.44
+C0563,Petty-Blake,South America,Manufacturing,13.16
+C0564,"Dominguez, Bowman and Krause",Europe,Transportation,5.6
+C0565,Strong-Giles,Africa,Retail,6.25
+C0566,Kelly and Sons,Asia-Pacific,Finance,17.06
+C0567,Bates-Cabrera,Asia-Pacific,Technology,9.23
+C0568,Mueller Inc,South America,Retail,2.22
+C0569,Nichols-Nguyen,Africa,Retail,12.22
+C0570,Roberts LLC,South America,Finance,16.63
+C0571,Barry-Ruiz,Middle East,Manufacturing,6.0
+C0572,Schmidt-Hodge,North America,Retail,4.52
+C0573,Harrison and Sons,Asia-Pacific,Technology,19.08
+C0574,Russo-Hull,Europe,Technology,15.72
+C0575,Smith-Smith,Asia-Pacific,Healthcare,18.86
+C0576,"Schmidt, Adams and King",North America,Transportation,10.12
+C0577,Ruiz Ltd,South America,Healthcare,3.65
+C0578,Shaw PLC,Europe,Transportation,19.92
+C0579,Anderson-Lee,North America,Manufacturing,9.54
+C0580,Greene-Ferguson,Asia-Pacific,Retail,17.32
+C0581,"Long, Mills and Stanton",South America,Retail,13.65
+C0582,Cummings LLC,South America,Transportation,3.18
+C0583,"Graham, Estes and Jones",Middle East,Healthcare,0.82
+C0584,"Williams, Moore and Carr",Asia-Pacific,Finance,22.4
+C0585,Wilson-Martinez,Asia-Pacific,Finance,14.04
+C0586,Rodriguez-Mccarthy,Africa,Transportation,7.91
+C0587,"Bartlett, Petersen and Holden",North America,Technology,11.93
+C0588,Parker-Dillon,Asia-Pacific,Transportation,9.95
+C0589,"Suarez, Fischer and Aguilar",South America,Transportation,9.44
+C0590,Garcia-Valdez,Africa,Transportation,9.7
+C0591,Bennett and Sons,South America,Finance,22.62
+C0592,Castillo PLC,Europe,Retail,6.94
+C0593,Esparza-Williamson,Europe,Retail,16.7
+C0594,Rose Ltd,South America,Finance,10.72
+C0595,"Collins, Fisher and Brooks",Africa,Technology,7.18
+C0596,"Stone, Knight and Mack",North America,Finance,6.95
+C0597,Roberson Ltd,Middle East,Manufacturing,5.04
+C0598,Hall Group,Africa,Retail,10.77
+C0599,Gonzalez LLC,North America,Manufacturing,7.65
+C0600,"Williamson, Huerta and Miller",Middle East,Retail,9.22
+C0601,Flowers LLC,Asia-Pacific,Healthcare,18.67
+C0602,"Gilbert, Jones and Smith",South America,Transportation,9.38
+C0603,"Callahan, Reed and Vasquez",Asia-Pacific,Finance,18.32
+C0604,Henderson-Jones,Europe,Retail,17.95
+C0605,Crawford Group,Africa,Healthcare,23.88
+C0606,Collins Group,Asia-Pacific,Transportation,9.5
+C0607,Roach Inc,Africa,Healthcare,9.17
+C0608,"Hardin, Pugh and Daniel",Africa,Technology,12.95
+C0609,"Stephens, Rogers and Mcconnell",Asia-Pacific,Manufacturing,16.66
+C0610,Zimmerman-Livingston,Asia-Pacific,Healthcare,24.19
+C0611,George Inc,Europe,Finance,22.37
+C0612,Dominguez-Evans,Asia-Pacific,Manufacturing,16.43
+C0613,"Medina, Calhoun and Baker",Europe,Technology,4.61
+C0614,Klein PLC,Africa,Finance,2.52
+C0615,Rodriguez-Garcia,North America,Manufacturing,7.37
+C0616,Hernandez and Sons,North America,Healthcare,12.13
+C0617,Lopez-Gray,North America,Retail,3.39
+C0618,Adams-Ortiz,Asia-Pacific,Manufacturing,5.09
+C0619,Turner-Beck,North America,Transportation,6.67
+C0620,"Kirk, Gomez and Crawford",South America,Manufacturing,18.13
+C0621,"Coleman, Ortiz and Wood",Europe,Retail,24.76
+C0622,Ray Ltd,Asia-Pacific,Manufacturing,5.56
+C0623,"Christian, Rogers and Adams",North America,Technology,2.9
+C0624,Lee-Lowe,South America,Manufacturing,22.47
+C0625,Cain-Jordan,Middle East,Retail,18.34
+C0626,Wilson-Stone,Europe,Transportation,15.31
+C0627,"Williams, Guerra and Williams",South America,Retail,6.18
+C0628,"Rose, Harris and Fry",Asia-Pacific,Manufacturing,5.71
+C0629,"Wilson, Cooper and Williams",Asia-Pacific,Healthcare,2.36
+C0630,"Burnett, Stewart and Robbins",Asia-Pacific,Finance,4.5
+C0631,Campbell LLC,North America,Technology,23.45
+C0632,Gutierrez-Moreno,Asia-Pacific,Manufacturing,1.33
+C0633,Hunt Ltd,Asia-Pacific,Manufacturing,16.75
+C0634,"Kelley, Swanson and Bennett",Europe,Manufacturing,9.74
+C0635,Williams-Rodriguez,North America,Manufacturing,16.58
+C0636,Gonzalez-Nguyen,Africa,Healthcare,17.7
+C0637,"Harris, Clayton and Howard",Asia-Pacific,Manufacturing,24.79
+C0638,Johnson-Cervantes,Europe,Healthcare,13.74
+C0639,"Dunn, Marshall and Bowman",Middle East,Retail,14.87
+C0640,Mcbride Inc,South America,Finance,1.37
+C0641,"Jones, Brooks and Gutierrez",South America,Transportation,1.01
+C0642,Simpson-Hanna,Asia-Pacific,Transportation,22.74
+C0643,"Lee, Horton and Schultz",Asia-Pacific,Finance,4.18
+C0644,Koch-Leblanc,North America,Healthcare,2.87
+C0645,Rodriguez Group,Africa,Technology,23.05
+C0646,"Smith, Morrow and Hernandez",Asia-Pacific,Manufacturing,3.4
+C0647,"Smith, Cole and Miller",South America,Healthcare,14.65
+C0648,Stevenson-Diaz,North America,Technology,24.22
+C0649,"Jones, Hart and Hernandez",Asia-Pacific,Finance,15.42
+C0650,Archer LLC,Asia-Pacific,Technology,5.71
+C0651,Johnson LLC,North America,Finance,24.97
+C0652,Harrell and Sons,Africa,Finance,11.28
+C0653,Perry Inc,Africa,Transportation,14.3
+C0654,"Davis, Herrera and Barnes",South America,Manufacturing,6.0
+C0655,Smith-Smith,Europe,Healthcare,17.77
+C0656,"Wilson, Wilson and Harper",Asia-Pacific,Technology,3.22
+C0657,"Duke, Carr and Pena",Asia-Pacific,Transportation,8.03
+C0658,"Black, Smith and Carter",Europe,Manufacturing,11.25
+C0659,Evans Inc,Middle East,Finance,16.11
+C0660,Payne Group,Asia-Pacific,Technology,18.69
+C0661,"Dougherty, Jones and Rojas",South America,Technology,16.53
+C0662,"Riley, Robertson and Roberts",North America,Technology,18.07
+C0663,Booth-Fisher,Middle East,Manufacturing,22.91
+C0664,Moon PLC,Asia-Pacific,Manufacturing,22.55
+C0665,"Livingston, Ramirez and Johnson",Middle East,Retail,5.64
+C0666,Nixon-George,Europe,Transportation,8.72
+C0667,Hunter-Williams,Asia-Pacific,Finance,21.21
+C0668,"Taylor, Mitchell and Marks",Europe,Transportation,14.6
+C0669,Lewis Ltd,Europe,Retail,7.13
+C0670,Li-Barrett,Europe,Healthcare,0.6
+C0671,Collins Inc,South America,Healthcare,22.62
+C0672,Moore-Roach,South America,Technology,21.36
+C0673,"Smith, Bates and Ramsey",North America,Transportation,4.51
+C0674,Mcconnell-Pham,Africa,Finance,15.71
+C0675,Williams-Hawkins,Middle East,Transportation,16.58
+C0676,Miranda and Sons,Asia-Pacific,Finance,24.7
+C0677,"Guerrero, Hogan and Lane",Africa,Retail,4.94
+C0678,Davis-Davis,North America,Finance,12.36
+C0679,Cox LLC,South America,Technology,21.84
+C0680,Diaz-Neal,Asia-Pacific,Transportation,2.63
+C0681,Blankenship LLC,Africa,Retail,18.78
+C0682,Smith-Delacruz,Middle East,Manufacturing,1.38
+C0683,Carr Inc,South America,Transportation,14.38
+C0684,"Martinez, Fritz and Cruz",Middle East,Transportation,12.63
+C0685,"Singh, Garcia and Arnold",South America,Transportation,20.0
+C0686,Blankenship-Nelson,North America,Transportation,24.44
+C0687,"Walker, Woods and Wells",Africa,Transportation,7.8
+C0688,"Wilson, Orozco and Clarke",Asia-Pacific,Manufacturing,17.2
+C0689,Frank Ltd,Africa,Transportation,13.87
+C0690,"Campbell, Wilson and Roth",Africa,Transportation,18.45
+C0691,Hansen-Werner,Middle East,Manufacturing,12.14
+C0692,Price PLC,North America,Healthcare,7.7
+C0693,Cunningham-Garcia,Europe,Manufacturing,15.86
+C0694,Lee-Patton,Africa,Transportation,19.99
+C0695,Logan-Gibson,Middle East,Transportation,20.87
+C0696,Neal-Graves,Europe,Manufacturing,6.8
+C0697,"Chambers, Thompson and Wilson",Asia-Pacific,Transportation,12.96
+C0698,Wagner and Sons,Middle East,Finance,4.26
+C0699,"Brooks, Ruiz and Cunningham",North America,Finance,5.75
+C0700,Brooks and Sons,Europe,Healthcare,23.88
+C0701,"Rivera, Larson and Hodge",Africa,Technology,16.99
+C0702,Lewis and Sons,Europe,Retail,4.85
+C0703,Donovan-Montgomery,South America,Retail,14.97
+C0704,Strickland PLC,Asia-Pacific,Technology,15.54
+C0705,King Group,Europe,Technology,1.77
+C0706,Dillon-Knight,Europe,Finance,21.67
+C0707,Smith-King,Africa,Finance,6.55
+C0708,"Larson, Goodwin and Castro",Asia-Pacific,Retail,2.53
+C0709,"Shaw, Hale and Garcia",Africa,Manufacturing,19.97
+C0710,"Anderson, Garza and Bishop",Africa,Technology,1.28
+C0711,Hood and Sons,Middle East,Retail,8.35
+C0712,"Mercado, Marsh and Brooks",Europe,Healthcare,10.39
+C0713,Savage and Sons,Europe,Manufacturing,13.92
+C0714,Wood LLC,Asia-Pacific,Retail,13.2
+C0715,Best-Brown,Asia-Pacific,Finance,2.99
+C0716,Smith-Evans,Middle East,Retail,20.53
+C0717,"Parsons, Powers and Pierce",North America,Transportation,0.86
+C0718,"Cortez, Peterson and Lewis",Middle East,Healthcare,8.19
+C0719,"West, Lopez and Sanchez",Middle East,Healthcare,15.8
+C0720,Silva-Montoya,Africa,Technology,17.52
+C0721,"Hess, Pruitt and Mills",South America,Retail,2.79
+C0722,"Mitchell, Day and Gonzalez",Middle East,Transportation,17.76
+C0723,"Miller, Morgan and Mccann",Asia-Pacific,Healthcare,22.67
+C0724,"Perez, Owens and Jefferson",Africa,Healthcare,17.86
+C0725,"Marshall, Contreras and Carr",South America,Technology,4.23
+C0726,"Garcia, Clayton and Elliott",North America,Technology,13.51
+C0727,"Walters, Sanchez and Chang",South America,Retail,20.23
+C0728,Baker and Sons,North America,Manufacturing,2.63
+C0729,Butler-Hendricks,North America,Healthcare,21.46
+C0730,Whitehead LLC,Africa,Healthcare,15.53
+C0731,Stanton LLC,Middle East,Technology,8.29
+C0732,Stewart-Warren,Asia-Pacific,Finance,9.03
+C0733,"Morales, Clayton and Sanders",South America,Technology,4.63
+C0734,"Johnson, Lopez and Herrera",Asia-Pacific,Healthcare,10.63
+C0735,Todd-Franklin,Europe,Healthcare,16.47
+C0736,Maxwell-Tran,Middle East,Finance,3.49
+C0737,Shah-Holland,Asia-Pacific,Finance,17.76
+C0738,Wilson-Davis,South America,Retail,5.25
+C0739,"Morgan, Washington and Fleming",Middle East,Manufacturing,17.32
+C0740,Martinez-Campbell,South America,Manufacturing,18.48
+C0741,Middleton-Manning,Asia-Pacific,Technology,4.77
+C0742,Phillips PLC,Asia-Pacific,Transportation,9.36
+C0743,Cook-Thomas,Europe,Finance,22.4
+C0744,"Diaz, Lopez and Wood",South America,Transportation,20.81
+C0745,Garcia Group,North America,Technology,21.9
+C0746,Roberts Inc,North America,Retail,13.38
+C0747,"Sherman, Malone and Sherman",Asia-Pacific,Healthcare,1.16
+C0748,Adams PLC,North America,Finance,6.35
+C0749,West-Nelson,North America,Manufacturing,8.44
+C0750,Cole and Sons,Europe,Healthcare,6.79
+C0751,Sheppard Inc,Europe,Transportation,1.67
+C0752,"Fletcher, Anderson and Morris",Africa,Finance,23.29
+C0753,Pearson-Smith,Africa,Finance,23.9
+C0754,"Andrews, Rodriguez and Monroe",Asia-Pacific,Technology,16.28
+C0755,Patterson-Rivera,Europe,Technology,6.39
+C0756,Lewis-Jones,North America,Healthcare,16.08
+C0757,Jones-Bradley,Middle East,Transportation,12.67
+C0758,Carter Group,North America,Healthcare,7.75
+C0759,Thomas-Blackburn,North America,Transportation,16.57
+C0760,Ray-Fisher,Africa,Healthcare,13.4
+C0761,"Washington, Floyd and Buck",Asia-Pacific,Healthcare,24.71
+C0762,"Benson, Jones and Schwartz",South America,Finance,3.64
+C0763,Khan-Friedman,Africa,Healthcare,16.95
+C0764,Ellis-Benson,North America,Retail,5.24
+C0765,Rios-Hancock,Africa,Healthcare,10.83
+C0766,Bishop PLC,South America,Retail,23.76
+C0767,Nelson-Bennett,Middle East,Manufacturing,6.76
+C0768,Howard-Hill,South America,Transportation,12.53
+C0769,"Lester, Ayala and Hernandez",Africa,Retail,4.98
+C0770,"Moore, Davies and Short",Europe,Finance,4.73
+C0771,Horton-Allen,Middle East,Technology,16.39
+C0772,"Conway, Hayes and Miller",South America,Finance,21.16
+C0773,Villanueva LLC,Asia-Pacific,Healthcare,22.47
+C0774,"Ramirez, Hoover and Kerr",South America,Technology,13.9
+C0775,Owens-Williams,Europe,Healthcare,5.02
+C0776,Chandler-Liu,North America,Manufacturing,10.59
+C0777,"Frank, Kirby and Fields",North America,Finance,24.76
+C0778,Lopez-Maxwell,Middle East,Manufacturing,13.19
+C0779,Turner-Solis,Africa,Retail,4.33
+C0780,Reese and Sons,South America,Retail,22.74
+C0781,"Shaw, Watson and Barr",Africa,Retail,4.11
+C0782,Small PLC,Europe,Transportation,3.92
+C0783,Rose PLC,Europe,Transportation,2.21
+C0784,Kim-Lyons,South America,Retail,15.25
+C0785,Wilkinson-Young,South America,Manufacturing,0.81
+C0786,Castro and Sons,Europe,Technology,7.39
+C0787,Mullins-Turner,Asia-Pacific,Retail,15.48
+C0788,"Davenport, Proctor and Jones",Middle East,Technology,2.23
+C0789,Kelly PLC,South America,Retail,10.77
+C0790,"Anderson, Wong and Cochran",North America,Transportation,1.7
+C0791,Green Inc,Europe,Finance,1.83
+C0792,Taylor PLC,Asia-Pacific,Manufacturing,1.5
+C0793,Bell-Mills,Europe,Transportation,14.11
+C0794,"Gill, Moore and Mcbride",South America,Manufacturing,19.23
+C0795,Campbell-Blevins,North America,Retail,13.93
+C0796,Chen-Doyle,North America,Technology,6.63
+C0797,"Sellers, Deleon and Olson",North America,Retail,7.22
+C0798,Schmidt PLC,North America,Technology,20.41
+C0799,Shelton-Larson,South America,Retail,11.85
+C0800,Whitehead Ltd,Middle East,Transportation,10.23
+C0801,Marshall PLC,Middle East,Technology,6.32
+C0802,Carey-Rios,North America,Technology,5.76
+C0803,Morgan Ltd,Africa,Finance,23.49
+C0804,Fernandez-Fox,Middle East,Transportation,16.18
+C0805,Colon-Graham,North America,Retail,15.47
+C0806,Evans and Sons,Europe,Healthcare,3.34
+C0807,Ramirez-Weiss,North America,Finance,8.64
+C0808,York-Acosta,Middle East,Retail,1.34
+C0809,Caldwell Inc,Asia-Pacific,Healthcare,23.76
+C0810,Gonzales Ltd,Europe,Retail,12.97
+C0811,Shepard-Parrish,South America,Technology,18.49
+C0812,Espinoza and Sons,Middle East,Healthcare,11.3
+C0813,Duke-Erickson,Europe,Transportation,21.3
+C0814,Bender and Sons,Middle East,Transportation,9.67
+C0815,Green-Cummings,Europe,Retail,16.17
+C0816,"Price, Williams and Brown",North America,Retail,5.17
+C0817,Johnson-Torres,Asia-Pacific,Retail,4.46
+C0818,Kelley-Nichols,Africa,Transportation,22.26
+C0819,Robinson Ltd,Africa,Transportation,10.42
+C0820,"Lane, Lawrence and Yates",North America,Manufacturing,24.95
+C0821,"Lowe, Fisher and Walters",Middle East,Finance,8.83
+C0822,Harvey and Sons,Africa,Finance,8.76
+C0823,Williams Ltd,Asia-Pacific,Technology,22.27
+C0824,Maynard and Sons,South America,Retail,2.82
+C0825,"Rodriguez, Miller and Hernandez",Middle East,Healthcare,3.84
+C0826,House-King,South America,Finance,3.18
+C0827,Cooke-Robinson,South America,Retail,20.64
+C0828,Lewis-Bennett,North America,Technology,12.79
+C0829,Ward Inc,Middle East,Manufacturing,17.4
+C0830,Stokes-Hampton,Africa,Finance,18.3
+C0831,"Melendez, Lynn and Anderson",Europe,Technology,9.28
+C0832,Hanna Inc,Asia-Pacific,Technology,11.05
+C0833,York-Everett,North America,Manufacturing,11.92
+C0834,Manning Group,Africa,Retail,2.16
+C0835,Johnson-Porter,South America,Healthcare,8.15
+C0836,"Copeland, Harrison and Jimenez",Africa,Retail,21.24
+C0837,Bauer-Butler,Africa,Technology,17.32
+C0838,Rodriguez Group,Europe,Finance,8.91
+C0839,"Gonzalez, Lopez and Jones",Middle East,Finance,11.78
+C0840,Williams Inc,Asia-Pacific,Healthcare,14.97
+C0841,"Merritt, Horn and Hanna",South America,Retail,8.13
+C0842,Hansen Inc,South America,Manufacturing,13.97
+C0843,Marshall-Hughes,South America,Technology,16.12
+C0844,Bennett-Thomas,North America,Manufacturing,21.38
+C0845,Escobar-Baxter,South America,Transportation,14.44
+C0846,Brennan-Jackson,Europe,Healthcare,12.64
+C0847,Cox-Nelson,Europe,Technology,6.02
+C0848,Glenn PLC,Middle East,Manufacturing,5.0
+C0849,"Levine, Combs and Nelson",Middle East,Healthcare,8.66
+C0850,"Warren, Gray and Curtis",Asia-Pacific,Manufacturing,2.47
+C0851,Conrad-Ross,Asia-Pacific,Healthcare,18.24
+C0852,Lane-Hayes,Europe,Retail,4.02
+C0853,"Jones, Medina and Willis",South America,Healthcare,21.7
+C0854,"Williams, Lang and Gordon",Middle East,Technology,22.57
+C0855,"Campbell, Whitehead and Coleman",South America,Technology,8.49
+C0856,Galvan LLC,Africa,Transportation,4.18
+C0857,Brown-Preston,South America,Finance,20.31
+C0858,"Thompson, Green and Larson",Asia-Pacific,Transportation,9.23
+C0859,Eaton-Parks,Middle East,Technology,15.0
+C0860,Osborn-Smith,Asia-Pacific,Retail,9.32
+C0861,Mills-Roberson,Asia-Pacific,Transportation,21.92
+C0862,"Summers, Jackson and White",Asia-Pacific,Healthcare,15.02
+C0863,Thomas LLC,Asia-Pacific,Finance,24.15
+C0864,Castro Ltd,Africa,Manufacturing,19.1
+C0865,Rhodes-Taylor,Middle East,Technology,6.33
+C0866,Douglas-Garrett,Middle East,Technology,17.21
+C0867,Alvarez-Burton,South America,Healthcare,8.6
+C0868,"Gonzalez, Beck and Lopez",South America,Finance,5.39
+C0869,Douglas PLC,Middle East,Technology,4.64
+C0870,Johnson-Ryan,Middle East,Retail,5.39
+C0871,Owens PLC,Middle East,Technology,2.13
+C0872,Maddox-Ryan,Africa,Healthcare,5.04
+C0873,"Crosby, Caldwell and Fischer",North America,Technology,18.19
+C0874,"Flores, Mccall and Perez",North America,Manufacturing,15.02
+C0875,Douglas-Kim,Asia-Pacific,Manufacturing,17.1
+C0876,Perez Ltd,Europe,Manufacturing,1.53
+C0877,"Carpenter, Farmer and Glass",Europe,Finance,22.81
+C0878,Tate-Patterson,Asia-Pacific,Retail,9.44
+C0879,Bryant-Hansen,Middle East,Retail,21.87
+C0880,"Howard, Williams and Vazquez",Europe,Retail,2.84
+C0881,"Reed, James and Blankenship",South America,Manufacturing,19.36
+C0882,Cole LLC,Europe,Finance,9.62
+C0883,Griffin-Lloyd,Middle East,Technology,23.16
+C0884,"Gilmore, Miller and Wright",South America,Retail,24.0
+C0885,Smith-Olson,Europe,Transportation,0.88
+C0886,Poole-Castillo,South America,Manufacturing,23.78
+C0887,Martinez LLC,Africa,Finance,8.59
+C0888,Reynolds-Rodriguez,Europe,Retail,22.82
+C0889,Mason Ltd,Middle East,Retail,4.7
+C0890,Krueger LLC,Africa,Transportation,20.2
+C0891,Marshall Ltd,South America,Retail,12.74
+C0892,Martinez-Horton,Asia-Pacific,Transportation,20.92
+C0893,Pierce-Johnson,Africa,Finance,24.27
+C0894,Rice-King,North America,Finance,2.34
+C0895,Allen Group,Asia-Pacific,Transportation,5.99
+C0896,"Case, Burns and Hernandez",Middle East,Finance,22.55
+C0897,"Harper, Gonzales and Shields",South America,Transportation,5.78
+C0898,Mcneil-Johnson,Africa,Manufacturing,2.5
+C0899,Armstrong Group,Middle East,Finance,5.24
+C0900,Kaiser and Sons,South America,Technology,3.34
+C0901,Nichols-Bates,Africa,Manufacturing,19.46
+C0902,"King, Benitez and Mejia",North America,Finance,23.95
+C0903,Adams-Gomez,Africa,Finance,7.5
+C0904,Guerra Inc,Africa,Healthcare,22.67
+C0905,Hernandez-West,Europe,Retail,12.07
+C0906,Torres Group,South America,Manufacturing,21.7
+C0907,Hancock-Williams,South America,Manufacturing,7.45
+C0908,"Acosta, Conway and Smith",Africa,Manufacturing,19.95
+C0909,"Smith, Reilly and White",Africa,Healthcare,5.59
+C0910,Torres Group,North America,Healthcare,7.75
+C0911,"King, Brown and Smith",Asia-Pacific,Technology,5.86
+C0912,"Green, Ibarra and Walker",Africa,Retail,5.35
+C0913,"Tucker, Gross and Morris",Middle East,Retail,18.45
+C0914,Garcia-English,North America,Finance,11.06
+C0915,Price Group,Europe,Retail,5.34
+C0916,Krause-Kirk,North America,Manufacturing,12.16
+C0917,Torres-Leon,Europe,Technology,10.37
+C0918,Calhoun and Sons,Africa,Technology,6.12
+C0919,Simmons Inc,South America,Technology,18.29
+C0920,Salinas-Hunter,South America,Finance,16.66
+C0921,Gomez-Cruz,South America,Finance,14.45
+C0922,Sanders-Williamson,North America,Technology,23.61
+C0923,"Butler, Thompson and Morales",Africa,Finance,5.28
+C0924,Woods-Murray,North America,Healthcare,17.44
+C0925,Ross-Brennan,North America,Finance,3.52
+C0926,"Wise, Hayes and Cohen",South America,Transportation,12.45
+C0927,Maxwell Inc,South America,Manufacturing,14.37
+C0928,Kennedy-Wilson,Middle East,Retail,7.31
+C0929,"Liu, Allen and Mills",North America,Finance,5.15
+C0930,Smith-Sanders,North America,Retail,22.15
+C0931,"Dunlap, Johnson and Shields",South America,Manufacturing,22.7
+C0932,Conrad-West,North America,Technology,8.79
+C0933,Hebert Ltd,North America,Finance,14.46
+C0934,"Watkins, Lewis and Hammond",North America,Retail,10.25
+C0935,"Montgomery, David and Galvan",Africa,Healthcare,14.8
+C0936,Miller-Paul,Africa,Technology,2.16
+C0937,"Jones, Cooper and Sanchez",North America,Healthcare,17.05
+C0938,Aguilar-Reese,Europe,Technology,0.59
+C0939,Adams Ltd,North America,Healthcare,16.36
+C0940,"Elliott, Sutton and Cannon",South America,Transportation,24.63
+C0941,Garcia-Coleman,Middle East,Transportation,9.85
+C0942,Todd-Lopez,Europe,Transportation,14.97
+C0943,Cooper-Perez,Europe,Technology,16.52
+C0944,Heath Ltd,Asia-Pacific,Technology,5.29
+C0945,Kirk PLC,Middle East,Healthcare,21.72
+C0946,Hernandez Inc,Europe,Healthcare,7.86
+C0947,Murphy-Johnston,Asia-Pacific,Retail,10.5
+C0948,"Davenport, Tyler and Boyd",Asia-Pacific,Technology,12.34
+C0949,"Singh, White and Adams",Asia-Pacific,Transportation,2.4
+C0950,"Manning, Miller and Cruz",Asia-Pacific,Manufacturing,3.54
+C0951,Butler Inc,North America,Retail,9.93
+C0952,Cook Group,Europe,Manufacturing,6.5
+C0953,Lee Ltd,North America,Retail,10.89
+C0954,Martin-Cook,Middle East,Transportation,23.23
+C0955,"White, Hill and Smith",Europe,Transportation,3.18
+C0956,Garcia Inc,Africa,Finance,22.95
+C0957,"Bennett, Thompson and Flores",Middle East,Finance,22.77
+C0958,Gentry and Sons,Africa,Transportation,12.53
+C0959,"Smith, Cardenas and Anderson",Middle East,Finance,23.07
+C0960,"Ho, Brown and Payne",North America,Finance,21.1
+C0961,Kennedy-Torres,Africa,Finance,12.65
+C0962,Jones-Christensen,Middle East,Finance,24.26
+C0963,Perez PLC,Europe,Technology,2.09
+C0964,Hopkins-Molina,North America,Technology,16.52
+C0965,Hammond LLC,Europe,Transportation,12.64
+C0966,"Jones, Booker and Patterson",Middle East,Retail,16.29
+C0967,Ford Ltd,Middle East,Healthcare,20.0
+C0968,Schaefer Group,South America,Technology,7.94
+C0969,"Christian, Graves and Lee",Asia-Pacific,Healthcare,3.15
+C0970,"Fitzgerald, Gonzales and Larsen",Africa,Retail,11.32
+C0971,Lewis and Sons,Europe,Transportation,17.36
+C0972,Mccarthy-Williamson,Middle East,Transportation,10.44
+C0973,Ward-Coleman,South America,Retail,17.35
+C0974,Turner-Moyer,Europe,Retail,15.79
+C0975,"Rodriguez, Nguyen and Hall",Europe,Healthcare,7.85
+C0976,"Moore, Johnson and Gonzalez",South America,Manufacturing,12.65
+C0977,Gregory Group,Africa,Transportation,11.38
+C0978,Ramirez Ltd,Middle East,Healthcare,10.35
+C0979,"Ortiz, Ward and Silva",South America,Manufacturing,7.16
+C0980,"Blackburn, Patterson and Rivas",Africa,Retail,14.71
+C0981,Perez and Sons,Africa,Technology,3.88
+C0982,"Smith, Dawson and Watson",Africa,Transportation,8.26
+C0983,Johnson-Moran,Middle East,Technology,7.99
+C0984,Johnson and Sons,Middle East,Manufacturing,14.31
+C0985,Morrow LLC,North America,Finance,20.13
+C0986,York Ltd,Europe,Technology,8.92
+C0987,Martinez-Hall,Africa,Finance,22.65
+C0988,Moss Inc,Africa,Manufacturing,5.27
+C0989,Ryan LLC,North America,Transportation,24.3
+C0990,"Mcconnell, Lawrence and Jones",Africa,Healthcare,20.39
+C0991,"Barrera, Ross and Roberts",South America,Retail,13.24
+C0992,Stephens Inc,South America,Transportation,6.65
+C0993,"White, Watts and Rodriguez",Middle East,Retail,23.85
+C0994,"Williams, Montgomery and Sims",Middle East,Transportation,5.33
+C0995,"Lyons, Espinoza and Rogers",Middle East,Manufacturing,1.49
+C0996,Barnett-Morgan,Europe,Retail,14.62
+C0997,Lynch-Bray,North America,Finance,20.99
+C0998,"Wright, Kim and Gomez",Middle East,Retail,13.18
+C0999,King-Mendoza,South America,Retail,5.01
+C1000,Russo-Jackson,Africa,Finance,4.54
